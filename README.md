@@ -12,6 +12,6 @@ Hello, im SnowRade :)
 </p>
 <samp>
 <p align="center">
-<a href="snowrade@protonmail.com">e-mail</a> | <a href="https://discord.com/users/814979372918112256/">discord</a> | <a href="https://twitter.com/SnowRade_">twitter</a> | <a href="https://steamcommunity.com/id/SnowRade/">steam</a> | <a href="https://t.me/SnowRade">telegram</a>
+<a href="snowrade@protonmail.com">e-mail</a> | <a href="https://discord.com/users/927695068675047464/">discord</a> | <a href="https://solo.to/SnowRade">solo.to</a> | <a href="https://steamcommunity.com/id/SnowRade/">steam</a> | <a href="https://t.me/SnowRade">telegram</a>
 </p>
 
